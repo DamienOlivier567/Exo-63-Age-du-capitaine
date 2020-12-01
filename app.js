@@ -11,15 +11,15 @@ do {
 while (age < 2);{
 
     if(age < 18) {
-        para.innerHTML += ("Le capitaine est jeune");
+        para.innerHTML += (", le capitaine est jeune");
     }
 
     else if (age < 50) {
-        para.innerHTML += ("Le capitaine n'est pas vieux");
+        para.innerHTML += (", le capitaine n'est pas vieux");
     }
 
     else {
-        para.innerHTML += ("Le capitaine est vieux");
+        para.innerHTML += (", le capitaine est vieux");
     }
 }
 
