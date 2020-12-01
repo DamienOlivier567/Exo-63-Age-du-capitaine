@@ -11,19 +11,19 @@ do {
 while (age < 2);{
 
     if(age < 18) {
-        para.innerHTML += (", le capitaine est jeune");
+        para.innerHTML += (", le capitaine ROUCKMOUTE est jeune");
     }
 
     else if (age < 50) {
-        para.innerHTML += (", le capitaine n'est pas vieux");
+        para.innerHTML += (", le capitaine ROUCKMOUTE n'est pas vieux");
     }
 
     else if (age < 100){
-        para.innerHTML += (", le capitaine est vieux");
+        para.innerHTML += (", le capitaine ROUCKMOUTE est vieux");
     }
 
     else {
-        para.innerHTML += (", euh je crois qu'il est mort a verifier mais pour moi il est en etat de decomposition");
+        para.innerHTML += (", euh je crois qu'il est mort a verifier mais pour moi il est en etat de decomposition RIP ROUCKMOUTE");
     }
 }
 
