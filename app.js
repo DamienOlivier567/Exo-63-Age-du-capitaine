@@ -1,5 +1,5 @@
 
-let age = prompt("Donnez un age")
+let age = prompt("Donnez un age pour le capitaine ROUCKMOUTE ")
 let para = document.getElementById('paragraphe');
 
 do {
